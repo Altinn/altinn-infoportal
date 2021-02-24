@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://altinn.no/nn/om-altinn/hva-er-altinn/</loc>
+    <lastmod>2017-12-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nb"
+                href="http://altinn.no/om-altinn/hva-er-altinn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://altinn.no/en/about-altinn/what-is-altinn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nn"
+                href="http://altinn.no/nn/om-altinn/hva-er-altinn/"
+                />
+  </url>
+  
+  <url>
     <loc>http://altinn.no/nn/hjelp/innlogging/</loc>
     <xhtml:link
                 rel="alternate"
@@ -18,83 +38,6 @@
                 rel="alternate"
                 hreflang="nn"
                 href="http://altinn.no/nn/hjelp/innlogging/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://altinn.no/nn/hjelp/innboks/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb"
-                href="http://altinn.no/hjelp/innboks/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://altinn.no/en/help/inbox/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nn"
-                href="http://altinn.no/nn/hjelp/innboks/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://altinn.no/nn/hjelp/skjema/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb"
-                href="http://altinn.no/hjelp/skjema/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://altinn.no/en/help/forms/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nn"
-                href="http://altinn.no/nn/hjelp/skjema/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://altinn.no/nn/hjelp/profil/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb"
-                href="http://altinn.no/hjelp/profil/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://altinn.no/en/help/profile/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nn"
-                href="http://altinn.no/nn/hjelp/profil/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://altinn.no/nn/om-altinn/</loc>
-    <lastmod>2020-02-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb"
-                href="http://altinn.no/om-altinn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://altinn.no/en/about-altinn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nn"
-                href="http://altinn.no/nn/om-altinn/"
                 />
   </url>
   
@@ -119,42 +62,60 @@
   </url>
   
   <url>
-    <loc>http://altinn.no/nn/</loc>
-    <lastmod>2020-02-17T00:00:00+00:00</lastmod>
+    <loc>http://altinn.no/nn/hjelp/innboks/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="nb"
-                href="http://altinn.no/"
+                href="http://altinn.no/hjelp/innboks/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://altinn.no/en/"
+                href="http://altinn.no/en/help/inbox/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nn"
-                href="http://altinn.no/nn/"
+                href="http://altinn.no/nn/hjelp/innboks/"
                 />
   </url>
   
   <url>
-    <loc>http://altinn.no/nn/om-altinn/hva-er-altinn/</loc>
-    <lastmod>2017-12-04T00:00:00+00:00</lastmod>
+    <loc>http://altinn.no/nn/om-altinn/personvern/</loc>
+    <lastmod>2017-09-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="nb"
-                href="http://altinn.no/om-altinn/hva-er-altinn/"
+                href="http://altinn.no/om-altinn/personvern/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://altinn.no/en/about-altinn/what-is-altinn/"
+                href="http://altinn.no/en/about-altinn/privacy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nn"
-                href="http://altinn.no/nn/om-altinn/hva-er-altinn/"
+                href="http://altinn.no/nn/om-altinn/personvern/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://altinn.no/nn/hjelp/skjema/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nb"
+                href="http://altinn.no/hjelp/skjema/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://altinn.no/en/help/forms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nn"
+                href="http://altinn.no/nn/hjelp/skjema/"
                 />
   </url>
   
@@ -179,22 +140,80 @@
   </url>
   
   <url>
-    <loc>http://altinn.no/nn/om-altinn/personvern/</loc>
-    <lastmod>2017-09-26T00:00:00+00:00</lastmod>
+    <loc>http://altinn.no/nn/hjelp/profil/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="nb"
-                href="http://altinn.no/om-altinn/personvern/"
+                href="http://altinn.no/hjelp/profil/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://altinn.no/en/about-altinn/privacy/"
+                href="http://altinn.no/en/help/profile/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nn"
-                href="http://altinn.no/nn/om-altinn/personvern/"
+                href="http://altinn.no/nn/hjelp/profil/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://altinn.no/nn/om-altinn/driftsmeldingar/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nb"
+                href="http://altinn.no/om-altinn/driftsmeldinger/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://altinn.no/en/about-altinn/service-announcements/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nn"
+                href="http://altinn.no/nn/om-altinn/driftsmeldingar/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://altinn.no/nn/om-altinn/</loc>
+    <lastmod>2020-02-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nb"
+                href="http://altinn.no/om-altinn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://altinn.no/en/about-altinn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nn"
+                href="http://altinn.no/nn/om-altinn/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://altinn.no/nn/</loc>
+    <lastmod>2020-02-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nb"
+                href="http://altinn.no/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://altinn.no/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nn"
+                href="http://altinn.no/nn/"
                 />
   </url>
   
@@ -233,25 +252,6 @@
                 rel="alternate"
                 hreflang="nn"
                 href="http://altinn.no/nn/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://altinn.no/nn/om-altinn/driftsmeldingar/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb"
-                href="http://altinn.no/om-altinn/driftsmeldinger/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://altinn.no/en/about-altinn/service-announcements/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nn"
-                href="http://altinn.no/nn/om-altinn/driftsmeldingar/"
                 />
   </url>
   

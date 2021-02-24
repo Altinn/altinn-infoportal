@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://altinn.no/en/about-altinn/what-is-altinn/</loc>
+    <lastmod>2017-12-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nb"
+                href="http://altinn.no/om-altinn/hva-er-altinn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nn"
+                href="http://altinn.no/nn/om-altinn/hva-er-altinn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://altinn.no/en/about-altinn/what-is-altinn/"
+                />
+  </url>
+  
+  <url>
     <loc>http://altinn.no/en/help/logging-in/</loc>
     <xhtml:link
                 rel="alternate"
@@ -18,6 +38,26 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://altinn.no/en/help/logging-in/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://altinn.no/en/about-altinn/the-altinn-co-operation/</loc>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nb"
+                href="http://altinn.no/om-altinn/samarbeidet/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nn"
+                href="http://altinn.no/nn/om-altinn/samarbeidet/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://altinn.no/en/about-altinn/the-altinn-co-operation/"
                 />
   </url>
   
@@ -60,6 +100,45 @@
   </url>
   
   <url>
+    <loc>http://altinn.no/en/about-altinn/privacy/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nb"
+                href="http://altinn.no/om-altinn/personvern/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nn"
+                href="http://altinn.no/nn/om-altinn/personvern/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://altinn.no/en/about-altinn/privacy/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://altinn.no/en/about-altinn/computer-systems-with-integration/</loc>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nb"
+                href="http://altinn.no/om-altinn/datasystemer-med-integrasjon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nn"
+                href="http://altinn.no/nn/om-altinn/datasystemer-med-integrasjon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://altinn.no/en/about-altinn/computer-systems-with-integration/"
+                />
+  </url>
+  
+  <url>
     <loc>http://altinn.no/en/help/profile/</loc>
     <xhtml:link
                 rel="alternate"
@@ -75,6 +154,25 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://altinn.no/en/help/profile/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://altinn.no/en/about-altinn/service-announcements/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nb"
+                href="http://altinn.no/om-altinn/driftsmeldinger/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nn"
+                href="http://altinn.no/nn/om-altinn/driftsmeldingar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://altinn.no/en/about-altinn/service-announcements/"
                 />
   </url>
   
@@ -115,66 +213,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://altinn.no/en/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://altinn.no/en/about-altinn/the-altinn-co-operation/</loc>
-    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb"
-                href="http://altinn.no/om-altinn/samarbeidet/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nn"
-                href="http://altinn.no/nn/om-altinn/samarbeidet/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://altinn.no/en/about-altinn/the-altinn-co-operation/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://altinn.no/en/about-altinn/what-is-altinn/</loc>
-    <lastmod>2017-12-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb"
-                href="http://altinn.no/om-altinn/hva-er-altinn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nn"
-                href="http://altinn.no/nn/om-altinn/hva-er-altinn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://altinn.no/en/about-altinn/what-is-altinn/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://altinn.no/en/about-altinn/computer-systems-with-integration/</loc>
-    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb"
-                href="http://altinn.no/om-altinn/datasystemer-med-integrasjon/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nn"
-                href="http://altinn.no/nn/om-altinn/datasystemer-med-integrasjon/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://altinn.no/en/about-altinn/computer-systems-with-integration/"
                 />
   </url>
   
@@ -251,44 +289,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://altinn.no/en/news/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://altinn.no/en/about-altinn/privacy/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb"
-                href="http://altinn.no/om-altinn/personvern/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nn"
-                href="http://altinn.no/nn/om-altinn/personvern/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://altinn.no/en/about-altinn/privacy/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://altinn.no/en/about-altinn/service-announcements/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb"
-                href="http://altinn.no/om-altinn/driftsmeldinger/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nn"
-                href="http://altinn.no/nn/om-altinn/driftsmeldingar/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://altinn.no/en/about-altinn/service-announcements/"
                 />
   </url>
   

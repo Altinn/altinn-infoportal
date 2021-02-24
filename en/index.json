@@ -1,10 +1,24 @@
 [
 {
+	"uri": "http://altinn.no/en/about-altinn/what-is-altinn/",
+	"title": "What is Altinn?",
+	"tags": [],
+	"description": "Altinn is an internet portal for digital dialogue between businesses, private individuals and public agencies. Altinn is also a technical platform that government bodies can use to develop digital services.",
+	"content": "Altinn is developed, operated and managed by the Altinn co-operation, that consists of multiple government bodies. The Norwegian Digitalisation Agency manages the technical solution on behalf of the co-operation, and decides how it should be developed.\nToday Altinn is a well established and comprehensive platform, and shows great growth both in data volumes, number of connected government bodies and number of digital services. It is constantly being developed with both improvements of current and introduction of new functionality. This functionality is described more in-depth (in Norwegian) in Altinn/digitalisering.\nAltinn also has a lot of useful information for those who wish to establish and run businesses in Norway, shown under Start and run business. These pages also contain a list of business support schemes.\n"
+},
+{
 	"uri": "http://altinn.no/en/help/logging-in/",
 	"title": "Logging in",
 	"tags": [],
 	"description": "ID-porten, alternative log-in, and more",
 	"content": "\r\r"
+},
+{
+	"uri": "http://altinn.no/en/about-altinn/the-altinn-co-operation/",
+	"title": "The Altinn co-operation",
+	"tags": [],
+	"description": "",
+	"content": "Altinn started as a co-operation between the Tax Directorate, Statistics Norway and the Brønnøysund Register Center in 2002, and was supposed to be an alternative reporting channel for financial data.\nIt was opened by then finance minister Per-Kristian Foss and then trade and industry minister Ansgar Gabrielsen on December 4 2003.\nSince the launch of the altinn.no portal, the number of agencies has been steadily increasing, and by februar 2019 there are 53 service owners, with the Tax Directorate being the largest.\nWhat agencies are part?  A-ordningen Arbeids- og velferdsetaten (NAV) Asker kommune Barne-, ungdoms- og familiedirektoratet Brønnøysundregistrene Datatilsynet Direktoratet for arbeidstilsynet Direktoratet for byggkvalitet Direktoratet for e-helse Direktoratet for mineralforvaltning Direktoratet for samfunnssikkerhet og beredskap Direktoratet for økonomistyring Enova Fellesordningen for avtalefestet pensjon Finanstilsynet Fiskeridirektoratet Forsvarets logistikkorganisasjon Garantiinstituttet for eksportkreditt Helse Møre og Romsdal HF Helsedirektoratet Husbanken KS (Kommunesektorens organisasjon) Kystverket Landbruksdirektoratet Lotteri- og stiftelsestilsynet Luftfartstilsynet Mattilsynet Miljødirektoratet Nasjonalbiblioteket Nasjonal kommunikasjonsmyndighet Nasjonal sikkerhetsmyndighet Norges vassdrags- og energidirektorat Norsk kulturråd Norsk pasientskadeerstatning Oljedirektoratet Oslo kommune Patentstyret Politidirektoratet Sjøfartsdirektoratet Skatteetaten Skedsmo kommune Statens arbeidsmiljøinstitutt Statens havarikommisjon for transport Statens kartverk Statens legemiddelverk Statens lånekasse for utdanning Statens pensjonskasse Statens sivilrettsforvaltning Statens strålevern Statens vegvesen Statistisk sentralbyrå Stavanger kommune Tilsynsrådet for advokatvirksomhet Tolletaten Trondheim kommune Utlendingsdirektoratet Valgdirektoratet  "
 },
 {
 	"uri": "http://altinn.no/en/help/inbox/",
@@ -21,11 +35,32 @@
 	"content": "\r\r"
 },
 {
+	"uri": "http://altinn.no/en/about-altinn/privacy/",
+	"title": "Privacy and cookies",
+	"tags": [],
+	"description": "Privacy is very important to us at Altinn.",
+	"content": "TODO\n"
+},
+{
+	"uri": "http://altinn.no/en/about-altinn/computer-systems-with-integration/",
+	"title": "Computer systems with integration",
+	"tags": [],
+	"description": "Here you&#39;ll find a list of which computer systems (end user systems) that either has developed or is planning to develop integration with Altinn.",
+	"content": "Please contact the system supplier for details. If your supplier is not in the list, contact the supplier to ask when an integration will be in place.\nSystems that have developed Altinn integrations  24SevenOffice - 24sevenoffice.no Admin 123 - www.admin123.no Adonis AS - www.adonis.no advokatsystemer WinKbo - www.advokatsystemer.com Aditro Lønn - www.aditro.no Agresso - www.unit4.com Agro Økonomi - www.agro.no Aksjeservice AS - www.aksjeservice.no Allinfo - eierskifte.no Arbeidsmaur - https://www.arbeidsmaur.no Aspect4 Lønn - eg.no Aquafarmer - www.steinsvik.no Bluegarden Personal Portal - www.bluegarden.no Cantor Controller - www.cantor.no Cantor Harmoni Lønn - www.cantor.no Danske Capital - www.danskecapital.com DI Systemer AS - www.disystemer.no Duett - www.daldata.no Easy-Regn - www.easy-regn.no E-conomic regnskapsprogram - www.e-conomic.no Europharma LuseApp - www.europharma.no EVRY - www.evry.com Excelar - www.excelar.no Farm Control - www.maritech.no Fiken - fiken.no Finale - www.finale.no Fishtalk Control - www.akvagroup.com Flexidata Sambo - www.flexidata.no Formula Lønn og Personal - www.bluegarden.no Formula Økonomi - www.bluegarden.no Garantikassen for fiskere Genet Solutions AS - www.genet.no Hogia Lønn AS - www.matrix.no/lønn Huldt \u0026amp; Lillevik Lønn 5.0 - www.visma.no Hårfagre - www.bbl.no InfoADB - www.lindbakretail.no InfoEasy - www.infoeasy.no InWay.pro - intelliway.pl Jæren Regnskap Taxi AS - www.jrtaxi.no Landbruksdata Voss - www.landbruksdata.no LESSOR Payroll til Microsoft Dynamics AX - www.lessor.dk Lodo - www.lodo.no Maestro - www.maestro.no Mamut - www.mamut.no Maritech Regnskap - www.maritech.no Midas Data AS - start.midasdata.no Navisoft Lønn for Microsoft Dynamics NAV - www.nettlonn.no Norkom (DnB NOR) - www.dnb.no Norlønn - www.norlonn.no Notodden Programutvikling - www.notprog.no OCS HR - www.mintragroup.com Oracle EBS - www.oracle.com Paga - www.bluegarden.no Patrawin - www.dxc.technology PKD-personell/lønn - www.ivestconsult.no PowerOffice GO - poweroffice.no RamBase - RamBase.com SAP - www.sap.com Scanvaegt - www.scanvaegt.no SD-Lønn/personal Sofus Tirol - www.tirol.no TAXItotal - www.taxitotal.no Total - www.visma.no Tripletex AS - www.tripletex.no Uni Økonomi - www.unimicro.no Visma Business Design - www.visma.no Visma Byrå Periode \u0026amp; År - www.visma.no Visma eAccounting - www.visma.no Visma Contracting - www.visma.no Visma Global - www.visma.no Visma Lønn - www.visma.no Visma Scenario Professional - www.visma.no Visma Scenario Professional - www.visma.no Visma Rubicon - www.visma.no Visma Unique AS - www.visma.no VIVALDI Lønns- og PersonalSystem - www.asdal.no - wolterskluwer.no XLEDGER.NET - www.xledger.no Zeta - www.alfa-omega.no Zirius - www.zirius.no  Systems that are planning to integrate with Altinn  CSC Solutions - www.csc.com/no Regnskaps- og bedriftssystemer Standard ERP Transpario Regnskaps- og bedriftssystemer  "
+},
+{
 	"uri": "http://altinn.no/en/help/profile/",
 	"title": "Profile",
 	"tags": [],
 	"description": "Contact information, roles, rights and more",
 	"content": "\r\r"
+},
+{
+	"uri": "http://altinn.no/en/about-altinn/service-announcements/",
+	"title": "Service announcements",
+	"tags": [],
+	"description": "",
+	"content": "Fjerning av støtte for noen krypteringsalgoritmer Den 10. oktober vil Altinn bare støtte TLS 1.2 eller høyere. Vi fjerner noen algoritmer som har vært tilgjengelig i en «overgangsperiode». Det er viktig at virksomheter med integrasjoner mot Altinn undersøker at integrasjonen fortsatt fungerer som forventet.\nDersom det er spørsmål til dette, ta kontakt med Sikkerhetsansvarlig Altinn, Raymond.Andre.Hagen@digdir.no\n"
 },
 {
 	"uri": "http://altinn.no/en/about-altinn/",
@@ -39,28 +74,7 @@
 	"title": "Start",
 	"tags": [],
 	"description": "",
-	"content": "Search for content\r\rSearch\r\r\r\r\r\r\rAktuelle skjema og tjenester:\r\rA-melding - alle skjema\r\r\r\r\rProdukter og tjenester fra Br\u0026#248;nn\u0026#248;ysundregistrene\r\r\r\r\rRegistrere nye og endre eksisterende virksomheter - Samordnet registermelding\r\r\r\r\rKontaktskjema - Skatteetaten (privatperson)\r\r\r\r\rKontaktskjema - Skatteetaten (n\u0026#230;ringsdrivende)\r\r\r\r\rSkattemelding for formues- og inntektsskatt - aksjeselskap mv. 2019\r\r\r\r\r\r\rVis alle skjema\r\r\r\r\rHva bør man vite for å drive næring i Norge? Du finner svar i\rstarte og drive bedrift\n\r\r\rKoronaviruset (Covid-19) og din\rvirksomhet\n\r\r\r\rLatest news\rBetalingsutsettelse ved likviditetsproblemer som følge av koronasituasjonen\r\rKoronaviruset og din virksomhet\rPå Starte og drive bedrift sidene finner du aktuell og samlet informasjon til næringslivet i forbindelse med koronasituasjonen. Informasjonen er satt sammen på tvers av etater og andre myndighetsutøvere.\n\rAltinn mottar German Design Award\rAltinn mottar i dag German Design Award, som hvert år deles ut til gode designprosjekter fra hele Europa.\n\rShow all news \r\r\r\r\n"
-},
-{
-	"uri": "http://altinn.no/en/about-altinn/the-altinn-co-operation/",
-	"title": "The Altinn co-operation",
-	"tags": [],
-	"description": "",
-	"content": "Altinn started as a co-operation between the Tax Directorate, Statistics Norway and the Brønnøysund Register Center in 2002, and was supposed to be an alternative reporting channel for financial data.\nIt was opened by then finance minister Per-Kristian Foss and then trade and industry minister Ansgar Gabrielsen on December 4 2003.\nSince the launch of the altinn.no portal, the number of agencies has been steadily increasing, and by februar 2019 there are 53 service owners, with the Tax Directorate being the largest.\nWhat agencies are part?  A-ordningen Arbeids- og velferdsetaten (NAV) Asker kommune Barne-, ungdoms- og familiedirektoratet Brønnøysundregistrene Datatilsynet Direktoratet for arbeidstilsynet Direktoratet for byggkvalitet Direktoratet for e-helse Direktoratet for mineralforvaltning Direktoratet for samfunnssikkerhet og beredskap Direktoratet for økonomistyring Enova Fellesordningen for avtalefestet pensjon Finanstilsynet Fiskeridirektoratet Forsvarets logistikkorganisasjon Garantiinstituttet for eksportkreditt Helse Møre og Romsdal HF Helsedirektoratet Husbanken KS (Kommunesektorens organisasjon) Kystverket Landbruksdirektoratet Lotteri- og stiftelsestilsynet Luftfartstilsynet Mattilsynet Miljødirektoratet Nasjonalbiblioteket Nasjonal kommunikasjonsmyndighet Nasjonal sikkerhetsmyndighet Norges vassdrags- og energidirektorat Norsk kulturråd Norsk pasientskadeerstatning Oljedirektoratet Oslo kommune Patentstyret Politidirektoratet Sjøfartsdirektoratet Skatteetaten Skedsmo kommune Statens arbeidsmiljøinstitutt Statens havarikommisjon for transport Statens kartverk Statens legemiddelverk Statens lånekasse for utdanning Statens pensjonskasse Statens sivilrettsforvaltning Statens strålevern Statens vegvesen Statistisk sentralbyrå Stavanger kommune Tilsynsrådet for advokatvirksomhet Tolletaten Trondheim kommune Utlendingsdirektoratet Valgdirektoratet  "
-},
-{
-	"uri": "http://altinn.no/en/about-altinn/what-is-altinn/",
-	"title": "What is Altinn?",
-	"tags": [],
-	"description": "Altinn is an internet portal for digital dialogue between businesses, private individuals and public agencies. Altinn is also a technical platform that government bodies can use to develop digital services.",
-	"content": "Altinn is developed, operated and managed by the Altinn co-operation, that consists of multiple government bodies. The Norwegian Digitalisation Agency manages the technical solution on behalf of the co-operation, and decides how it should be developed.\nToday Altinn is a well established and comprehensive platform, and shows great growth both in data volumes, number of connected government bodies and number of digital services. It is constantly being developed with both improvements of current and introduction of new functionality. This functionality is described more in-depth (in Norwegian) in Altinn/digitalisering.\nAltinn also has a lot of useful information for those who wish to establish and run businesses in Norway, shown under Start and run business. These pages also contain a list of business support schemes.\n"
-},
-{
-	"uri": "http://altinn.no/en/about-altinn/computer-systems-with-integration/",
-	"title": "Computer systems with integration",
-	"tags": [],
-	"description": "Her finner du oversikt over hvilke datasystemer (fagsystemer) som har utviklet eller er i ferd med å utvikle integrasjon mot Altinn.",
-	"content": "Ta kontakt med den enkelte systemleverandør for detaljer. Dersom din leverandør ikke er inkludert i listen, ta kontakt med leverandør for å be om status på når en integrasjon vil foreligge.\nListen blir oppdatert etterhvert som nye leverandører utvikler integrasjon mot Altinn.\nDatasystemer som har utviklet grensesnitt mot Altinn  24SevenOffice - 24sevenoffice.no Admin 123 - www.admin123.no Adonis AS - www.adonis.no advokatsystemer WinKbo - www.advokatsystemer.com Aditro Lønn - www.aditro.no Agresso - www.unit4.com Agro Økonomi - www.agro.no Aksjeservice AS - www.aksjeservice.no Allinfo - eierskifte.no Arbeidsmaur - https://www.arbeidsmaur.no Aspect4 Lønn - eg.no Aquafarmer - www.steinsvik.no Bluegarden Personal Portal - www.bluegarden.no Cantor Controller - www.cantor.no Cantor Harmoni Lønn - www.cantor.no Danske Capital - www.danskecapital.com DI Systemer AS - www.disystemer.no Duett - www.daldata.no Easy-Regn - www.easy-regn.no E-conomic regnskapsprogram - www.e-conomic.no Europharma LuseApp - www.europharma.no EVRY - www.evry.com Excelar - www.excelar.no Farm Control - www.maritech.no Fiken - fiken.no Finale - www.finale.no Fishtalk Control - www.akvagroup.com Flexidata Sambo - www.flexidata.no Formula Lønn og Personal - www.bluegarden.no Formula Økonomi - www.bluegarden.no Garantikassen for fiskere Genet Solutions AS - www.genet.no Hogia Lønn AS - www.matrix.no/lønn Huldt \u0026amp; Lillevik Lønn 5.0 - www.visma.no Hårfagre - www.bbl.no InfoADB - www.lindbakretail.no InfoEasy - www.infoeasy.no InWay.pro - intelliway.pl Jæren Regnskap Taxi AS - www.jrtaxi.no Landbruksdata Voss - www.landbruksdata.no LESSOR Payroll til Microsoft Dynamics AX - www.lessor.dk Lodo - www.lodo.no Maestro - www.maestro.no Mamut - www.mamut.no Maritech Regnskap - www.maritech.no Midas Data AS - start.midasdata.no Navisoft Lønn for Microsoft Dynamics NAV - www.nettlonn.no Norkom (DnB NOR) - www.dnb.no Norlønn - www.norlonn.no Notodden Programutvikling - www.notprog.no OCS HR - www.mintragroup.com Oracle EBS - www.oracle.com Paga - www.bluegarden.no Patrawin - www.dxc.technology PKD-personell/lønn - www.ivestconsult.no PowerOffice GO - poweroffice.no RamBase - RamBase.com SAP - www.sap.com Scanvaegt - www.scanvaegt.no SD-Lønn/personal Sofus Tirol - www.tirol.no TAXItotal - www.taxitotal.no Total - www.visma.no Tripletex AS - www.tripletex.no Uni Økonomi - www.unimicro.no Visma Business Design - www.visma.no Visma Byrå Periode \u0026amp; År - www.visma.no Visma eAccounting - www.visma.no Visma Contracting - www.visma.no Visma Global - www.visma.no Visma Lønn - www.visma.no Visma Scenario Professional - www.visma.no Visma Scenario Professional - www.visma.no Visma Rubicon - www.visma.no Visma Unique AS - www.visma.no VIVALDI Lønns- og PersonalSystem - www.asdal.no - wolterskluwer.no XLEDGER.NET - www.xledger.no Zeta - www.alfa-omega.no Zirius - www.zirius.no  Leverandører som planlegger å utvikle grensesnitt  CSC Solutions - www.csc.com/no Regnskaps- og bedriftssystemer Standard ERP Transpario Regnskaps- og bedriftssystemer  "
+	"content": "Search for content\r\rSearch\r\r\r\r\r\r\rAktuelle skjema og tjenester:\r\rA-melding - alle skjema\r\r\r\r\rProdukter og tjenester fra Br\u0026#248;nn\u0026#248;ysundregistrene\r\r\r\r\rRegistrere nye og endre eksisterende virksomheter - Samordnet registermelding\r\r\r\r\rKontaktskjema - Skatteetaten (privatperson)\r\r\r\r\rKontaktskjema - Skatteetaten (n\u0026#230;ringsdrivende)\r\r\r\r\rSkattemelding for formues- og inntektsskatt - aksjeselskap mv. 2019\r\r\r\r\r\r\rVis alle skjema\r\r\r\r\rHva bør man vite for å drive næring i Norge? Du finner svar i\rstarte og drive bedrift\n\r\r\rKoronaviruset (Covid-19) og din\rvirksomhet\n\r\r\r\rLatest news\rSletting i innboks før overdragelse av underenhet\rTilgang til en virksomhets innboks i Altinn er utformet med utgangspunkt i ledende roller registrert for virksomheten i Enhetsregisteret.\n\rFalske e-poster fra Altinn\rVi får meldinger fra brukere som har mottatt e-poster fra webmaster@altinn.no. Dette er falske e-poster. Vi ber deg om å slette e-posten.\n\rBetalingsutsettelse ved likviditetsproblemer som følge av koronasituasjonen\r\rShow all news \r\r\r\r\n"
 },
 {
 	"uri": "http://altinn.no/en/forms-overview/",
@@ -89,20 +103,6 @@
 	"tags": [],
 	"description": "",
 	"content": ""
-},
-{
-	"uri": "http://altinn.no/en/about-altinn/privacy/",
-	"title": "Privacy and cookies",
-	"tags": [],
-	"description": "Privacy is very important to us at Altinn.",
-	"content": "TODO\n"
-},
-{
-	"uri": "http://altinn.no/en/about-altinn/service-announcements/",
-	"title": "Service announcements",
-	"tags": [],
-	"description": "",
-	"content": "Fjerning av støtte for noen krypteringsalgoritmer Den 10. oktober vil Altinn bare støtte TLS 1.2 eller høyere. Vi fjerner noen algoritmer som har vært tilgjengelig i en «overgangsperiode». Det er viktig at virksomheter med integrasjoner mot Altinn undersøker at integrasjonen fortsatt fungerer som forventet.\nDersom det er spørsmål til dette, ta kontakt med Sikkerhetsansvarlig Altinn, Raymond.Andre.Hagen@digdir.no\n"
 },
 {
 	"uri": "http://altinn.no/en/start-and-run-business/",
