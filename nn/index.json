@@ -11,7 +11,7 @@
 	"title": "Innlogging",
 	"tags": [],
 	"description": "ID-porten, alternativ innlogging, mm.",
-	"content": "\r\r"
+	"content": ""
 },
 {
 	"uri": "http://altinn.no/nn/om-altinn/samarbeidet/",
@@ -25,7 +25,7 @@
 	"title": "Innboks",
 	"tags": [],
 	"description": "Meldingar, filter, vidaresending, mm.",
-	"content": "\r\r"
+	"content": ""
 },
 {
 	"uri": "http://altinn.no/nn/om-altinn/personvern/",
@@ -39,7 +39,7 @@
 	"title": "Skjema",
 	"tags": [],
 	"description": "Funksjonalitet i skjema, aktørval, mm.",
-	"content": "\r\r"
+	"content": ""
 },
 {
 	"uri": "http://altinn.no/nn/om-altinn/datasystemer-med-integrasjon/",
@@ -53,7 +53,7 @@
 	"title": "Profil",
 	"tags": [],
 	"description": "Kontaktinformasjon, roller, rettigheter, mm.",
-	"content": "\r\r"
+	"content": ""
 },
 {
 	"uri": "http://altinn.no/nn/om-altinn/driftsmeldingar/",
@@ -77,11 +77,39 @@
 	"content": "Søk etter innhald\r\rSøk\r\r\r\r\r\r\rAktuelle skjema og tjenester:\r\rA-melding - alle skjema\r\r\r\r\rProdukter og tjenester fra Br\u0026#248;nn\u0026#248;ysundregistrene\r\r\r\r\rRegistrere nye og endre eksisterende virksomheter - Samordnet registermelding\r\r\r\r\rKontaktskjema - Skatteetaten (privatperson)\r\r\r\r\rKontaktskjema - Skatteetaten (n\u0026#230;ringsdrivende)\r\r\r\r\rSkattemelding for formues- og inntektsskatt - aksjeselskap mv. 2019\r\r\r\r\r\r\rVis alle skjema\r\r\r\r\rHva bør man vite for å drive næring i Norge? Du finner svar i\rstarte og drive bedrift\n\r\r\rKoronaviruset (Covid-19) og din\rvirksomhet\n\r\r\r\rSiste nytt\rSletting i innboks før overdragelse av underenhet\rTilgang til en virksomhets innboks i Altinn er utformet med utgangspunkt i ledende roller registrert for virksomheten i Enhetsregisteret.\n\rFalske e-poster fra Altinn\rVi får meldinger fra brukere som har mottatt e-poster fra webmaster@altinn.no. Dette er falske e-poster. Vi ber deg om å slette e-posten.\n\rBetalingsutsettelse ved likviditetsproblemer som følge av koronasituasjonen\r\rVis alle nyheiter \r\r\r\r\n"
 },
 {
+	"uri": "http://altinn.no/nn/hjelp/skjema/alle-altinn-roller/",
+	"title": "Alle Altinn-roller",
+	"tags": [],
+	"description": "Her ser du eit oversyn over alle Altinn-rollene og kven som får disse forhåndstildelt.",
+	"content": "TODO\n"
+},
+{
 	"uri": "http://altinn.no/nn/skjemaoversikt/",
 	"title": "Alle skjema",
 	"tags": [],
 	"description": "",
 	"content": ""
+},
+{
+	"uri": "http://altinn.no/nn/hjelp/innlogging/alternativ-innlogging-i-altinn/",
+	"title": "Alternativ innlogging i Altinn",
+	"tags": [],
+	"description": "Her finn du ulike innloggingsmetoder som gir brukarar som har behov som ikkje vert dekt av ID-porten høvet til å logge inn i Altinn.",
+	"content": "TODO\n"
+},
+{
+	"uri": "http://altinn.no/nn/hjelp/innboks/arkiv/",
+	"title": "Arkiv",
+	"tags": [],
+	"description": "Arkiv inneheld kvittering på innsende skjema, og dessutan brev og meldingar som du har valt å arkivera.",
+	"content": "TODO\n"
+},
+{
+	"uri": "http://altinn.no/nn/hjelp/profil/avanserte-innstillinger/",
+	"title": "Avanserte innstillingar",
+	"tags": [],
+	"description": "Her finn du ulike innstillingar for aktøren du representerer.",
+	"content": "TODO\n"
 },
 {
 	"uri": "http://altinn.no/nn/categories/",
@@ -91,6 +119,41 @@
 	"content": ""
 },
 {
+	"uri": "http://altinn.no/nn/hjelp/profil/datasystem-liste-over-feilmeldinger/",
+	"title": "Datasystem – Liste over feilmeldingar",
+	"tags": [],
+	"description": "Her finn du ei oversikt over feilmeldingar du kan få når du sender/hentar informasjon via eit datasystem.",
+	"content": "TODO\n"
+},
+{
+	"uri": "http://altinn.no/nn/hjelp/profil/delegering-av-boroller/",
+	"title": "Delegering av buroller",
+	"tags": [],
+	"description": "Når bustyrar blir registrert på konkursbuet i Einingsregisteret, kan bustyrar delegere roller på buet til medarbeidarane og kreditorane sine.",
+	"content": "TODO\n"
+},
+{
+	"uri": "http://altinn.no/nn/hjelp/profil/klientdelegering/",
+	"title": "Delegering av klientroller",
+	"tags": [],
+	"description": "Klientdelegering er ein funksjonalitet som gir rekneskapsførar/revisor/bostyrer høvet til å delegera roller og rettar frå klientane til dei tilsette i serviceeininga/bostyrer ein representerer.",
+	"content": "TODO\n"
+},
+{
+	"uri": "http://altinn.no/nn/hjelp/innlogging/diverse-om-innlogging/",
+	"title": "Diverse om innlogging",
+	"tags": [],
+	"description": "Her finn du ulike problemstillingar som kan dukke opp når det gjeld alternativ innlogging i Altinn.",
+	"content": "TODO\n"
+},
+{
+	"uri": "http://altinn.no/nn/hjelp/skjema/funksjonalitet/",
+	"title": "Funksjonalitet",
+	"tags": [],
+	"description": "Her finn du informasjon om dei ulike funksjonanen som er knytt til bruken av skjema og tenester i Altinn.",
+	"content": "TODO\n"
+},
+{
 	"uri": "http://altinn.no/nn/hjelp/",
 	"title": "Hjelp",
 	"tags": [],
@@ -98,11 +161,81 @@
 	"content": "Spørsmål du kanskje har \rVis/skjul innhold\r\rSykemelding\r\r\rFinner du ikke Sykmeldingen?\nSykmeldingen blir sendt til underenheten (bedriftsnummeret) til selskapet i Altinn. Hvordan du representerer en underenhet vil du finne informasjon om her.\nNår du har valgt å representere underenheten vil du finne sykmeldingen under innboks.\nHar du flere spørsmål angående sykmelding kan du lese mer på NAV sine sider.\n\r\r \rVis/skjul innhold\r\rHvordan representere andre?\r\r\rKlikk på navnet ditt oppe til høyre på siden. Du får da frem en oversikt over hvilke aktører du har tilgang på i Altinn, det kan være andre personer eller foretak og bedrifter.\nUnderenheter og slettede enheter finner du ved å klikke Vis alle aktører. Her kan du velge å Se alle underenheter eller Se slettede enheter.\nMer informasjon om hvordan du representerer andre.\n\r\r "
 },
 {
+	"uri": "http://altinn.no/nn/hjelp/skjema/hjelp-med-enkelttjenester/",
+	"title": "Hjelp med enkelttjenester",
+	"tags": [],
+	"description": "Her finn du informasjon om ulike enkelttjenester som ligg i Altinn.",
+	"content": "TODO\n"
+},
+{
+	"uri": "http://altinn.no/nn/hjelp/skjema/hvordan-finner-jeg-riktig-skjema/",
+	"title": "Hjelp med skjema",
+	"tags": [],
+	"description": "Her vil du finne ulike spørsmål du kanskje har andsynes skjema i Altinn.",
+	"content": "TODO\n"
+},
+{
+	"uri": "http://altinn.no/nn/hjelp/innlogging/id-portenminidbankid/",
+	"title": "ID-porten/MinID/BankID",
+	"tags": [],
+	"description": "ID-porten er den primære innloggingskanalen til Altinn og er ei felles innloggingsløysing for mange offentlege tenester.",
+	"content": "TODO\n"
+},
+{
+	"uri": "http://altinn.no/nn/hjelp/innboks/innboks/",
+	"title": "Innboks",
+	"tags": [],
+	"description": "Innboks inneheld nye brev og meldingar, og dessutan tenester som ligg med status utfylling. Meldingar som har frist vil liggja øvst under Hast og markert med raudt.",
+	"content": "TODO\n"
+},
+{
+	"uri": "http://altinn.no/nn/hjelp/profil/kontaktinformasjon/",
+	"title": "Kontaktinformasjon",
+	"tags": [],
+	"description": "Under kontaktinformasjon vil du kunna velje der du vil varslast, og for kva. Dette gjeld både deg som privatperson og for verksemda di.",
+	"content": "TODO\n"
+},
+{
+	"uri": "http://altinn.no/nn/hjelp/skjema/hvordan-representere-andre/",
+	"title": "Korleis representere andre?",
+	"tags": [],
+	"description": "Her finn du informasjon om korleis ein kan representere ei undereining, sletta eining eller korleis ein søkjer i meldingar på tvers av aktørar.",
+	"content": "TODO\n"
+},
+{
 	"uri": "http://altinn.no/nn/nyheiter/",
 	"title": "Nyheiter",
 	"tags": [],
 	"description": "",
 	"content": ""
+},
+{
+	"uri": "http://altinn.no/nn/hjelp/profil/roller-og-rettigheter/",
+	"title": "Roller og rettar",
+	"tags": [],
+	"description": "Roller og rettar vil gi deg tilgang til ulike skjema og tenester i Altinn.",
+	"content": "TODO\n"
+},
+{
+	"uri": "http://altinn.no/nn/hjelp/profil/samtykke/",
+	"title": "Samtykke",
+	"tags": [],
+	"description": "Brukaren kan gi samtykke til at ein tredjepart skal få mellombels innsynsrett på eit spesifikt sett med opplysningar om brukaren som tidligare er innhenta.",
+	"content": "TODO\n"
+},
+{
+	"uri": "http://altinn.no/nn/hjelp/innboks/slettede-meldinger/",
+	"title": "Sletta",
+	"tags": [],
+	"description": "I sletta ligg meldingar du har valt å slette frå innboks eller arkiv. Desse meldingane kan du anten slette permanent eller gjennopprette. Slette meldingar permanent vil berre kunne gjerast viss du representerer eit fødselsnummer.",
+	"content": "TODO\n"
+},
+{
+	"uri": "http://altinn.no/nn/hjelp/profil/sporre-om-rettighet/",
+	"title": "Spørre om rettighet",
+	"tags": [],
+	"description": "Se hva som må til for å spørre om en rettighet du ikke har i dag.",
+	"content": "TODO\n"
 },
 {
 	"uri": "http://altinn.no/nn/starte-og-drive/",

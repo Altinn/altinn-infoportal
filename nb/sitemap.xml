@@ -277,6 +277,25 @@
   </url>
   
   <url>
+    <loc>http://altinn.no/hjelp/skjema/alle-altinn-roller/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://altinn.no/en/help/forms/all-altinn-roles/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nn"
+                href="http://altinn.no/nn/hjelp/skjema/alle-altinn-roller/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nb"
+                href="http://altinn.no/hjelp/skjema/alle-altinn-roller/"
+                />
+  </url>
+  
+  <url>
     <loc>http://altinn.no/skjemaoversikt/</loc>
     <xhtml:link
                 rel="alternate"
@@ -296,7 +315,60 @@
   </url>
   
   <url>
+    <loc>http://altinn.no/hjelp/innlogging/alternativ-innlogging-i-altinn/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://altinn.no/en/help/logging-in/altinn-alternative-log-in-methods/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nn"
+                href="http://altinn.no/nn/hjelp/innlogging/alternativ-innlogging-i-altinn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nb"
+                href="http://altinn.no/hjelp/innlogging/alternativ-innlogging-i-altinn/"
+                />
+  </url>
+  
+  <url>
     <loc>http://altinn.no/hjelp/innboks/arkiv/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://altinn.no/en/help/inbox/archive/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nn"
+                href="http://altinn.no/nn/hjelp/innboks/arkiv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nb"
+                href="http://altinn.no/hjelp/innboks/arkiv/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://altinn.no/hjelp/profil/avanserte-innstillinger/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://altinn.no/en/help/profile/advanced-settings/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nn"
+                href="http://altinn.no/nn/hjelp/profil/avanserte-innstillinger/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nb"
+                href="http://altinn.no/hjelp/profil/avanserte-innstillinger/"
+                />
   </url>
   
   <url>
@@ -319,6 +391,101 @@
   </url>
   
   <url>
+    <loc>http://altinn.no/hjelp/profil/datasystem-liste-over-feilmeldinger/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://altinn.no/en/help/profile/computer-systems---list-of-possible-error-messages/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nn"
+                href="http://altinn.no/nn/hjelp/profil/datasystem-liste-over-feilmeldinger/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nb"
+                href="http://altinn.no/hjelp/profil/datasystem-liste-over-feilmeldinger/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://altinn.no/hjelp/profil/delegering-av-boroller/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://altinn.no/en/help/profile/estate-delegation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nn"
+                href="http://altinn.no/nn/hjelp/profil/delegering-av-boroller/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nb"
+                href="http://altinn.no/hjelp/profil/delegering-av-boroller/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://altinn.no/hjelp/profil/klientdelegering/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://altinn.no/en/help/profile/client-delegation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nn"
+                href="http://altinn.no/nn/hjelp/profil/klientdelegering/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nb"
+                href="http://altinn.no/hjelp/profil/klientdelegering/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://altinn.no/hjelp/innlogging/diverse-om-innlogging/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://altinn.no/en/help/logging-in/miscellaneous-about-logging-in/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nn"
+                href="http://altinn.no/nn/hjelp/innlogging/diverse-om-innlogging/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nb"
+                href="http://altinn.no/hjelp/innlogging/diverse-om-innlogging/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://altinn.no/hjelp/skjema/funksjonalitet/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://altinn.no/en/help/forms/functionality/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nn"
+                href="http://altinn.no/nn/hjelp/skjema/funksjonalitet/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nb"
+                href="http://altinn.no/hjelp/skjema/funksjonalitet/"
+                />
+  </url>
+  
+  <url>
     <loc>http://altinn.no/hjelp/</loc>
     <xhtml:link
                 rel="alternate"
@@ -334,6 +501,196 @@
                 rel="alternate"
                 hreflang="nb"
                 href="http://altinn.no/hjelp/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://altinn.no/hjelp/skjema/hjelp-med-enkelttjenester/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://altinn.no/en/help/forms/help-with-specific-services/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nn"
+                href="http://altinn.no/nn/hjelp/skjema/hjelp-med-enkelttjenester/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nb"
+                href="http://altinn.no/hjelp/skjema/hjelp-med-enkelttjenester/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://altinn.no/hjelp/skjema/hvordan-finner-jeg-riktig-skjema/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://altinn.no/en/help/forms/help-with-the-form/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nn"
+                href="http://altinn.no/nn/hjelp/skjema/hvordan-finner-jeg-riktig-skjema/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nb"
+                href="http://altinn.no/hjelp/skjema/hvordan-finner-jeg-riktig-skjema/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://altinn.no/hjelp/skjema/hvordan-representere-andre/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://altinn.no/en/help/forms/how-to-represent-others/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nn"
+                href="http://altinn.no/nn/hjelp/skjema/hvordan-representere-andre/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nb"
+                href="http://altinn.no/hjelp/skjema/hvordan-representere-andre/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://altinn.no/hjelp/innlogging/id-portenminidbankid/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://altinn.no/en/help/logging-in/id-portenminidbankid/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nn"
+                href="http://altinn.no/nn/hjelp/innlogging/id-portenminidbankid/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nb"
+                href="http://altinn.no/hjelp/innlogging/id-portenminidbankid/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://altinn.no/hjelp/innboks/innboks/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://altinn.no/en/help/inbox/inbox/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nn"
+                href="http://altinn.no/nn/hjelp/innboks/innboks/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nb"
+                href="http://altinn.no/hjelp/innboks/innboks/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://altinn.no/hjelp/profil/kontaktinformasjon/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://altinn.no/en/help/profile/contact-information/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nn"
+                href="http://altinn.no/nn/hjelp/profil/kontaktinformasjon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nb"
+                href="http://altinn.no/hjelp/profil/kontaktinformasjon/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://altinn.no/hjelp/profil/roller-og-rettigheter/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://altinn.no/en/help/profile/roles-and-rights/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nn"
+                href="http://altinn.no/nn/hjelp/profil/roller-og-rettigheter/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nb"
+                href="http://altinn.no/hjelp/profil/roller-og-rettigheter/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://altinn.no/hjelp/profil/samtykke/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://altinn.no/en/help/profile/consent/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nn"
+                href="http://altinn.no/nn/hjelp/profil/samtykke/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nb"
+                href="http://altinn.no/hjelp/profil/samtykke/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://altinn.no/hjelp/innboks/slettede-meldinger/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://altinn.no/en/help/inbox/deleted/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nn"
+                href="http://altinn.no/nn/hjelp/innboks/slettede-meldinger/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nb"
+                href="http://altinn.no/hjelp/innboks/slettede-meldinger/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://altinn.no/hjelp/profil/sporre-om-rettighet/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://altinn.no/en/help/profile/sporre-om-rettighet/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nn"
+                href="http://altinn.no/nn/hjelp/profil/sporre-om-rettighet/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nb"
+                href="http://altinn.no/hjelp/profil/sporre-om-rettighet/"
                 />
   </url>
   

@@ -11,7 +11,7 @@
 	"title": "Logging in",
 	"tags": [],
 	"description": "ID-porten, alternative log-in, and more",
-	"content": "\r\r"
+	"content": ""
 },
 {
 	"uri": "http://altinn.no/en/about-altinn/the-altinn-co-operation/",
@@ -25,14 +25,14 @@
 	"title": "Inbox",
 	"tags": [],
 	"description": "Messages, filters, forwarding and more",
-	"content": "\r\r"
+	"content": ""
 },
 {
 	"uri": "http://altinn.no/en/help/forms/",
 	"title": "Forms",
 	"tags": [],
 	"description": "Form functionality, choosing party and more",
-	"content": "\r\r"
+	"content": ""
 },
 {
 	"uri": "http://altinn.no/en/about-altinn/privacy/",
@@ -53,7 +53,7 @@
 	"title": "Profile",
 	"tags": [],
 	"description": "Contact information, roles, rights and more",
-	"content": "\r\r"
+	"content": ""
 },
 {
 	"uri": "http://altinn.no/en/about-altinn/service-announcements/",
@@ -77,11 +77,39 @@
 	"content": "Search for content\r\rSearch\r\r\r\r\r\r\rAktuelle skjema og tjenester:\r\rA-melding - alle skjema\r\r\r\r\rProdukter og tjenester fra Br\u0026#248;nn\u0026#248;ysundregistrene\r\r\r\r\rRegistrere nye og endre eksisterende virksomheter - Samordnet registermelding\r\r\r\r\rKontaktskjema - Skatteetaten (privatperson)\r\r\r\r\rKontaktskjema - Skatteetaten (n\u0026#230;ringsdrivende)\r\r\r\r\rSkattemelding for formues- og inntektsskatt - aksjeselskap mv. 2019\r\r\r\r\r\r\rVis alle skjema\r\r\r\r\rHva bør man vite for å drive næring i Norge? Du finner svar i\rstarte og drive bedrift\n\r\r\rKoronaviruset (Covid-19) og din\rvirksomhet\n\r\r\r\rLatest news\rSletting i innboks før overdragelse av underenhet\rTilgang til en virksomhets innboks i Altinn er utformet med utgangspunkt i ledende roller registrert for virksomheten i Enhetsregisteret.\n\rFalske e-poster fra Altinn\rVi får meldinger fra brukere som har mottatt e-poster fra webmaster@altinn.no. Dette er falske e-poster. Vi ber deg om å slette e-posten.\n\rBetalingsutsettelse ved likviditetsproblemer som følge av koronasituasjonen\r\rShow all news \r\r\r\r\n"
 },
 {
+	"uri": "http://altinn.no/en/help/profile/advanced-settings/",
+	"title": "Advanced settings",
+	"tags": [],
+	"description": "Here you&#39;ll find settings for the party you are representing.",
+	"content": "TODO\n"
+},
+{
+	"uri": "http://altinn.no/en/help/forms/all-altinn-roles/",
+	"title": "All Altinn roles",
+	"tags": [],
+	"description": "This section contains a list of all Altinn roles, and who has the roles automatically delegated to them.",
+	"content": "TODO\n"
+},
+{
 	"uri": "http://altinn.no/en/forms-overview/",
 	"title": "All forms",
 	"tags": [],
 	"description": "",
 	"content": ""
+},
+{
+	"uri": "http://altinn.no/en/help/logging-in/altinn-alternative-log-in-methods/",
+	"title": "Altinn alternative log-in methods",
+	"tags": [],
+	"description": "Here you can find different log-in Methods that are made to grant users with needs that ID-porten can&#39;t satisfy access to Altinn.",
+	"content": "TODO\n"
+},
+{
+	"uri": "http://altinn.no/en/help/inbox/archive/",
+	"title": "Archive",
+	"tags": [],
+	"description": "The archive contains receipts for submitted forms, and messages you have chosen to archive.",
+	"content": "TODO\n"
 },
 {
 	"uri": "http://altinn.no/en/categories/",
@@ -91,6 +119,55 @@
 	"content": ""
 },
 {
+	"uri": "http://altinn.no/en/help/profile/client-delegation/",
+	"title": "Client delegation",
+	"tags": [],
+	"description": "Client delegation is a functionality that gives accountants and auditors possibility to delegate roles for the clients to the employees of the accounting/auditing company.",
+	"content": "TODO\n"
+},
+{
+	"uri": "http://altinn.no/en/help/profile/computer-systems---list-of-possible-error-messages/",
+	"title": "Computer systems - list of possible error messages",
+	"tags": [],
+	"description": "This list contains the possible error messages you can get when using a computer system to communicate with Altinn.",
+	"content": "TODO\n"
+},
+{
+	"uri": "http://altinn.no/en/help/profile/consent/",
+	"title": "Consent",
+	"tags": [],
+	"description": "The user gives consent for a third party to gain temporary access to specific sets of previously collected data about the user.",
+	"content": "TODO\n"
+},
+{
+	"uri": "http://altinn.no/en/help/profile/contact-information/",
+	"title": "Contact information",
+	"tags": [],
+	"description": "Under contact information you can choose where you wish to be notified, and for what. This concerns both you as an individual and for businesses.",
+	"content": "TODO\n"
+},
+{
+	"uri": "http://altinn.no/en/help/inbox/deleted/",
+	"title": "Deleted",
+	"tags": [],
+	"description": "Under deleted you will find messages you have chosen to delete from your inbox or archive. The messages can be deleted permanently or restored.",
+	"content": "TODO\n"
+},
+{
+	"uri": "http://altinn.no/en/help/profile/estate-delegation/",
+	"title": "Estate delegation",
+	"tags": [],
+	"description": "When a bankruptcy administrator is registered for the company in liquidation in the Register of Legal Entities, the administrator can delegate roles for the company to colleagues and creditors.",
+	"content": "TODO\n"
+},
+{
+	"uri": "http://altinn.no/en/help/forms/functionality/",
+	"title": "Functionality",
+	"tags": [],
+	"description": "Here you&#39;ll find information about the functionality when using forms and services in Altinn.",
+	"content": "TODO\n"
+},
+{
 	"uri": "http://altinn.no/en/help/",
 	"title": "Help",
 	"tags": [],
@@ -98,11 +175,67 @@
 	"content": "Questions you may have: \rVis/skjul innhold\r\rSykemelding\r\r\rFinner du ikke Sykmeldingen?\nSykmeldingen blir sendt til underenheten (bedriftsnummeret) til selskapet i Altinn. Hvordan du representerer en underenhet vil du finne informasjon om her.\nNår du har valgt å representere underenheten vil du finne sykmeldingen under innboks.\nHar du flere spørsmål angående sykmelding kan du lese mer på NAV sine sider.\n\r\r \rVis/skjul innhold\r\rHvordan representere andre?\r\r\rKlikk på navnet ditt oppe til høyre på siden. Du får da frem en oversikt over hvilke aktører du har tilgang på i Altinn, det kan være andre personer eller foretak og bedrifter.\nUnderenheter og slettede enheter finner du ved å klikke Vis alle aktører. Her kan du velge å Se alle underenheter eller Se slettede enheter.\nMer informasjon om hvordan du representerer andre.\n\r\r "
 },
 {
+	"uri": "http://altinn.no/en/help/forms/help-with-specific-services/",
+	"title": "Help with specific services",
+	"tags": [],
+	"description": "This section contains questions and answers about specific forms in Altinn. The information is currently only available in Norwegian.",
+	"content": "TODO\n"
+},
+{
+	"uri": "http://altinn.no/en/help/forms/help-with-the-form/",
+	"title": "Help with the form",
+	"tags": [],
+	"description": "Here you&#39;ll find answers to questions you might have about forms in Altinn.",
+	"content": "TODO\n"
+},
+{
+	"uri": "http://altinn.no/en/help/forms/how-to-represent-others/",
+	"title": "How to represent others",
+	"tags": [],
+	"description": "Here you&#39;ll find information on how to represent businesses, sub-entities, deleted entities in Altinn, and how to search across parties.",
+	"content": "TODO\n"
+},
+{
+	"uri": "http://altinn.no/en/help/logging-in/id-portenminidbankid/",
+	"title": "ID-porten/MinID/BankID",
+	"tags": [],
+	"description": "ID-porten is the primary way to log in to Altinn, and is a common log-in solution for many Norwegian public services.",
+	"content": "TODO\n"
+},
+{
+	"uri": "http://altinn.no/en/help/inbox/inbox/",
+	"title": "Inbox",
+	"tags": [],
+	"description": "Here you&#39;ll find information on how to navigate your inbox, and how to use the functionality in the inbox.",
+	"content": "TODO\n"
+},
+{
+	"uri": "http://altinn.no/en/help/logging-in/miscellaneous-about-logging-in/",
+	"title": "Miscellaneous about logging in",
+	"tags": [],
+	"description": "This section contains solutions to problems that might arise while logging in.",
+	"content": "TODO\n"
+},
+{
 	"uri": "http://altinn.no/en/news/",
 	"title": "News",
 	"tags": [],
 	"description": "",
 	"content": ""
+},
+{
+	"uri": "http://altinn.no/en/help/profile/roles-and-rights/",
+	"title": "Roles and rights",
+	"tags": [],
+	"description": "Roles and rights grant you access to the forms and services in Altinn.",
+	"content": "TODO\n"
+},
+{
+	"uri": "http://altinn.no/en/help/profile/sporre-om-rettighet/",
+	"title": "Spørre om rettighet",
+	"tags": [],
+	"description": "Se hva som må til for å spørre om en rettighet du ikke har i dag.",
+	"content": "TODO - mangler oversettelse på altinn.no\n"
 },
 {
 	"uri": "http://altinn.no/en/start-and-run-business/",

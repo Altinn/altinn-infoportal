@@ -11,7 +11,7 @@
 	"title": "Innlogging",
 	"tags": [],
 	"description": "ID-porten, alternativ innlogging, mm.",
-	"content": "\r\r"
+	"content": ""
 },
 {
 	"uri": "http://altinn.no/om-altinn/samarbeidet/",
@@ -25,7 +25,7 @@
 	"title": "Innboks",
 	"tags": [],
 	"description": "Meldinger, filter, videresending, mm.",
-	"content": "\r\rArkiv\rArkiv inneholder kvittering på innsendte skjema, samt brev og meldinger som du har valgt å arkivere.\n\r\r"
+	"content": ""
 },
 {
 	"uri": "http://altinn.no/om-altinn/personvern/",
@@ -39,7 +39,7 @@
 	"title": "Skjema",
 	"tags": [],
 	"description": "Funksjonalitet i skjema, aktørvalg, mm.",
-	"content": "\r\r"
+	"content": ""
 },
 {
 	"uri": "http://altinn.no/om-altinn/datasystemer-med-integrasjon/",
@@ -53,7 +53,7 @@
 	"title": "Profil",
 	"tags": [],
 	"description": "Kontaktinformasjon, roller, rettigheter, mm.",
-	"content": "\r\r"
+	"content": ""
 },
 {
 	"uri": "http://altinn.no/om-altinn/driftsmeldinger/",
@@ -140,6 +140,13 @@
 	"content": ""
 },
 {
+	"uri": "http://altinn.no/hjelp/skjema/alle-altinn-roller/",
+	"title": "Alle Altinn-roller",
+	"tags": [],
+	"description": "Her ser du en oversikt over alle Altinn-rollene og hvem som får disse forhåndstildelt.",
+	"content": "TODO\n"
+},
+{
 	"uri": "http://altinn.no/skjemaoversikt/",
 	"title": "Alle skjema",
 	"tags": [],
@@ -147,11 +154,25 @@
 	"content": ""
 },
 {
+	"uri": "http://altinn.no/hjelp/innlogging/alternativ-innlogging-i-altinn/",
+	"title": "Alternativ innlogging i Altinn",
+	"tags": [],
+	"description": "Her finner du ulike innloggingsmetoder som gir brukere som har behov som ikke dekkes av ID-porten muligheten til å logge inn i Altinn.",
+	"content": "TODO\n"
+},
+{
 	"uri": "http://altinn.no/hjelp/innboks/arkiv/",
 	"title": "Arkiv",
 	"tags": [],
 	"description": "Arkiv inneholder kvittering på innsendte skjema, samt brev og meldinger som du har valgt å arkivere.",
-	"content": "gdf\n"
+	"content": "\r\rVis/skjul innhold\r\rSende inn skjema på nytt? Slik lager du kopi av innsendt skjema\r\r\rLag ny kopi er en funksjon som lar deg få en hel eller delvis kopi av et allerede innsendt skjema.\rPå denne måten slipper du å fylle ut hele skjemaet på nytt, neste gang du skal sende inn.\rFunksjonen finner du på det aktuelle skjemaet som ligger under arkiv i innboks.\rIkke alle tjenester innehar funksjonen Lag ny kopi.\r\r\r "
+},
+{
+	"uri": "http://altinn.no/hjelp/profil/avanserte-innstillinger/",
+	"title": "Avanserte innstillinger",
+	"tags": [],
+	"description": "Her finner du ulike innstillinger for aktøren du representerer.",
+	"content": "TODO\n"
 },
 {
 	"uri": "http://altinn.no/categories/",
@@ -161,11 +182,116 @@
 	"content": ""
 },
 {
+	"uri": "http://altinn.no/hjelp/profil/datasystem-liste-over-feilmeldinger/",
+	"title": "Datasystem – Liste over feilmeldinger",
+	"tags": [],
+	"description": "Her finner du en oversikt over feilmeldinger du kan få når du sender/henter informasjon via et datasystem.",
+	"content": "TODO\n"
+},
+{
+	"uri": "http://altinn.no/hjelp/profil/delegering-av-boroller/",
+	"title": "Delegering av boroller",
+	"tags": [],
+	"description": "Når bostyrer registreres på konkursboet i Enhetsregisteret, kan bostyrer delegere roller på boet til sine medarbeidere og kreditorer.",
+	"content": "TODO\n"
+},
+{
+	"uri": "http://altinn.no/hjelp/profil/klientdelegering/",
+	"title": "Delegering av klientroller",
+	"tags": [],
+	"description": "Klientdelegering er en funksjonalitet som gir regnskapsfører/revisor/bostyrer muligheten til å delegere roller og rettigheterfra klientene til de ansatte i serviceenheten/bostyrer man representerer.",
+	"content": "TODO\n"
+},
+{
+	"uri": "http://altinn.no/hjelp/innlogging/diverse-om-innlogging/",
+	"title": "Diverse om innlogging",
+	"tags": [],
+	"description": "Her vil du finne ulike problemstillinger som kan dukke opp når det gjelder alternativ innlogging i Altinn.",
+	"content": "TODO\n"
+},
+{
+	"uri": "http://altinn.no/hjelp/skjema/funksjonalitet/",
+	"title": "Funksjonalitet",
+	"tags": [],
+	"description": "Her finner du informasjon om de ulike funksjonene som er knyttet til bruken av skjema og tjenester i Altinn.",
+	"content": "TODO\n"
+},
+{
 	"uri": "http://altinn.no/hjelp/",
 	"title": "Hjelp",
 	"tags": [],
 	"description": "Altinn brukerservice hjelper deg med innlogging, navigering, delegering og veien frem til et skjema. Har du spørsmål om utfylling av et skjema må du kontakte etaten som eier det.",
 	"content": "Spørsmål du kanskje har \rVis/skjul innhold\r\rSykemelding\r\r\rFinner du ikke Sykmeldingen?\nSykmeldingen blir sendt til underenheten (bedriftsnummeret) til selskapet i Altinn. Hvordan du representerer en underenhet vil du finne informasjon om her.\nNår du har valgt å representere underenheten vil du finne sykmeldingen under innboks.\nHar du flere spørsmål angående sykmelding kan du lese mer på NAV sine sider.\n\r\r \rVis/skjul innhold\r\rHvordan representere andre?\r\r\rKlikk på navnet ditt oppe til høyre på siden. Du får da frem en oversikt over hvilke aktører du har tilgang på i Altinn, det kan være andre personer eller foretak og bedrifter.\nUnderenheter og slettede enheter finner du ved å klikke Vis alle aktører. Her kan du velge å Se alle underenheter eller Se slettede enheter.\nMer informasjon om hvordan du representerer andre.\n\r\r "
+},
+{
+	"uri": "http://altinn.no/hjelp/skjema/hjelp-med-enkelttjenester/",
+	"title": "Hjelp med enkelttjenester",
+	"tags": [],
+	"description": "Her finner du informasjon om ulike enkelttjenester som ligger i Altinn.",
+	"content": "TODO\n"
+},
+{
+	"uri": "http://altinn.no/hjelp/skjema/hvordan-finner-jeg-riktig-skjema/",
+	"title": "Hjelp med skjema",
+	"tags": [],
+	"description": "Her vil du finne ulike spørsmål du kanskje har angående skjema i Altinn.",
+	"content": "TODO\n"
+},
+{
+	"uri": "http://altinn.no/hjelp/skjema/hvordan-representere-andre/",
+	"title": "Hvordan representere andre?",
+	"tags": [],
+	"description": "Her finner du informasjon om hvordan man kan representere en underenhet, slettede enheter eller hvordan man søker i meldinger på tvers av flere aktører.",
+	"content": "TODO\n"
+},
+{
+	"uri": "http://altinn.no/hjelp/innlogging/id-portenminidbankid/",
+	"title": "ID-porten/MinID/BankID",
+	"tags": [],
+	"description": "ID-porten er den primære innloggingskanalen til Altinn og er en felles innloggingsløsning for mange offentlige tjenester.",
+	"content": "TODO\n"
+},
+{
+	"uri": "http://altinn.no/hjelp/innboks/innboks/",
+	"title": "Innboks",
+	"tags": [],
+	"description": "Innboks inneholder nye brev og meldinger, samt tjenester som ligger med status utfylling. Meldinger som har frist vil ligge øverst under Hast og markert med rødt.",
+	"content": "TODO\n"
+},
+{
+	"uri": "http://altinn.no/hjelp/profil/kontaktinformasjon/",
+	"title": "Kontaktinformasjon",
+	"tags": [],
+	"description": "Under kontaktinformasjon vil du kunne velge hvor du ønsker å bli varslet, og for hva. Dette gjelder både deg som privatperson og for virksomheter.",
+	"content": "TODO\n"
+},
+{
+	"uri": "http://altinn.no/hjelp/profil/roller-og-rettigheter/",
+	"title": "Roller og rettigheter",
+	"tags": [],
+	"description": "Roller og rettigheter gir deg tilgang til ulike skjema og tjenester i Altinn.",
+	"content": "TODO\n"
+},
+{
+	"uri": "http://altinn.no/hjelp/profil/samtykke/",
+	"title": "Samtykke",
+	"tags": [],
+	"description": "Brukeren gir samtykke til at en tredjepart får midlertidig innsynsrett på et spesifikt sett med opplysninger om brukeren som tidligere er innhentet.",
+	"content": "TODO\n"
+},
+{
+	"uri": "http://altinn.no/hjelp/innboks/slettede-meldinger/",
+	"title": "Slettede",
+	"tags": [],
+	"description": "I slettede ligger meldinger du har valgt å slette fra innboks eller arkiv. Disse meldingene kan du enten slette permanent eller gjenopprette. Slette meldinger permanent vil bare kunne gjøres hvis du representerer et fødselsnummer.",
+	"content": "TODO\n"
+},
+{
+	"uri": "http://altinn.no/hjelp/profil/sporre-om-rettighet/",
+	"title": "Spørre om rettighet",
+	"tags": [],
+	"description": "Se hva som må til for å spørre om en rettighet du ikke har i dag.",
+	"content": "TODO\n"
 },
 {
 	"uri": "http://altinn.no/starte-og-drive/",
