@@ -579,6 +579,25 @@
   </url>
   
   <url>
+    <loc>http://altinn.no/nn/starte-og-drive/nyheter/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nb"
+                href="http://altinn.no/starte-og-drive/nyheter/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://altinn.no/en/start-and-run-business/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nn"
+                href="http://altinn.no/nn/starte-og-drive/nyheter/"
+                />
+  </url>
+  
+  <url>
     <loc>http://altinn.no/nn/hjelp/profil/roller-og-rettigheter/</loc>
     <xhtml:link
                 rel="alternate"
